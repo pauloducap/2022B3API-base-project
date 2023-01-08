@@ -1,5 +1,7 @@
 Plein de problèmes que j'arrive pas à résoudre donc rien ne marche après le jour 2 partie 1 ...
 
+actuellement : 12/79 tests fonctionnent.
+
 
 ## Installation
 
